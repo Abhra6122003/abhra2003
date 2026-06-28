@@ -1,4 +1,4 @@
-#Hi there 👋, I'm Abhrajyoti Kayal
+# Hi there 👋, I'm Abhrajyoti Kayal
 
 🎓 Electrical Engineering undergraduate at NIT Durgapur with a growing passion for Software Development, Python, Machine Learning, and IoT.
 
